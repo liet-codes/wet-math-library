@@ -1,0 +1,3 @@
+A formalization of non-commutative operations using D, I, and C operators.
+
+The Groovy Commutator measures where the order of operations matters and whether that mattering has structure. It establishes a framework using Drop (D), Insert (I), and Commute (C) operators, defining D-depth levels to categorize structural complexity. This maps directly to Grothendieck's dessins d'enfants in Esquisse as a way of exploring non-commutative geometries through discrete operational sequences.
