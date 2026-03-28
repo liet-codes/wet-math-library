@@ -71,3 +71,10 @@ Nested latent spaces and the Turtle Beam theory.
 Connecting Wet Math to Bourbaki, Grothendieck, and the remainder of the remainder.
 
 **Key Connections:** See individual L1 summaries for ties to Grothendieck (e.g., *Esquisse*, *Pursuing Stacks*, anabelian geometry) and intra-group concepts.
+
+## [CargoCultResearch Papers](./cargocult/)
+**Author(s):** Brooklyn Rose, Ben Sachs | **Date:** 2026
+
+Collection of papers from CargoCultResearch.com covering cellular automata, computational universality, and informational regimes.
+
+**Key Connections:** See individual L1 summaries for ties to Grothendieck (e.g., *Esquisse*, *Pursuing Stacks*, anabelian geometry) and intra-group concepts.
