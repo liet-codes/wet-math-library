@@ -39,9 +39,3 @@ This paper posits that the inherent asymmetry between generating complex systems
 
 **Connections to other group work:**
 This paper is presented as part of the research output of "Cargo Cult Research" and heavily builds upon two companion working drafts by "Ben," titled "Before Prediction: The Mathematics Was Right. The Ontology Was Optional" and "Computation as a Case Study in Informational Regimes." These foundational works, presumably from the same research group, establish the core framework for understanding computational interpretations in cognitive neuroscience and the layered architecture of informational regimes, respectively, within which the present paper's specific geometric hypothesis is developed. The paper also implicitly connects to theoretical concepts such as Shannon's idealized General Purpose Analog Computer, which serves as an example of an infinite-precision continuous computational system.
-
----SEPARATOR---
-
-**2. L0 Abstract**
-
-This paper argues that the fundamental generation/comprehension asymmetry and the phenomenon of emergence universally arise from a critical constraint boundary in systems of stable, composable elements. When constraint density reaches a critical threshold, globally coherent configurations form as non-decomposable, single-solution objects that cannot be derived from local rules, becoming the atoms of the next emergence level. This substrate-independent barrier manifests as temporal intractability in discrete computation and precision requirements in continuous dynamics, connecting phenomena like the SAT phase transition, spin glass physics, protein folding, Gödelian limits, and biological cognition as different facets of the same recurring geometric structure across scales.

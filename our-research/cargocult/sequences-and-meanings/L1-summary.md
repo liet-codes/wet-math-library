@@ -55,9 +55,3 @@ This paper argues that the distinction between "information" (as defined by Shan
 *   **Computational Irreducibility (Wolfram):** Directly referenced as one of three types of unpredictability, representing a discrete, logical barrier.
 *   **Interaction Graphs / Relational Generality:** The concept of "mutual modeling spiral" and "relational generality" for intelligence, where systems interact to establish shared meaning, implicitly points towards a network or graph-theoretic understanding of intelligence dynamics, though "interaction graphs" are not explicitly named.
 *   **Proportional Math / Shannon Clusters:** These concepts are not directly mentioned in the paper.
-
----SEPARATORS---
-
-## 2. L0 Abstract
-
-Shannon's information theory deliberately sets meaning aside, a methodological choice this paper argues reflects a fundamental, structural distinction between discrete computation and continuous intelligence. Computation operates on sequences, placing its infinity in extension with absolute undecidability barriers, while intelligence operates on meanings, placing its infinity in depth with ill-posedness barriers that can dissolve probabilistically. This core asymmetry may explain key phenomena in modern AI, suggesting that some cognitive operations are inherently non-algorithmic, requiring grounding in contingent real-world data, and that general intelligence emerges not from mere processing power but from a relational capacity for shared understanding forged through contact with common reality.
