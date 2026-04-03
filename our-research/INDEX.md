@@ -78,3 +78,10 @@ Connecting Wet Math to Bourbaki, Grothendieck, and the remainder of the remainde
 Collection of papers from CargoCultResearch.com covering cellular automata, computational universality, and informational regimes.
 
 **Key Connections:** See individual L1 summaries for ties to Grothendieck (e.g., *Esquisse*, *Pursuing Stacks*, anabelian geometry) and intra-group concepts.
+
+## [Noetherpoetics](./noetherpoetics/)
+**Author(s):** Myk (mykola_b) | **Date:** 2026
+
+An essay extending Noether's theorem into semantic space via LLM embedding geometry. Proposes archetypes as RG fixed points, formalizes the Shadow as a parity operator, and applies Noether-inspired reasoning to AI alignment — predicting that RLHF creates brittle alignment through shadow repression.
+
+**Key Connections:** Scale invariance and RG flow connect to Scale Geometry; the Unus Mundus framework bridges Turtle Beam's nested latent spaces; parity operators and shadow integration parallel holonic metabolism's anabolic/catabolic cascades.
